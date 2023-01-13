@@ -1,0 +1,51 @@
+section{
+    margin-left: 30px;
+    width: 60%;
+}
+section .deskripsi{
+    margin-top: 60px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 700
+  }
+section img{
+    width: 600px;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.8);
+  }
+article{
+    border: 1px solid darkblue;
+    background-color: #202020;
+    width: 62%;
+    height: 600px;
+    margin-left: 30px;
+    margin-top: 100px;
+    color: aliceblue;
+}
+article h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+article .minimun{
+    float:left ;
+    width: 50%;
+    margin-left: 10%;
+    font-size: 20px;
+    color: rgba(243, 236, 236, 0.519);
+}
+article h4{
+    margin-bottom:50px ;
+}
+article  .system-deskripsi{
+    margin-top: 5px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+article .recommended{
+    font-size: 20px;
+    color: rgba(243, 236, 236, 0.519);
+
+}
